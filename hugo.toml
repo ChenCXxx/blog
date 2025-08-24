@@ -1,11 +1,10 @@
-baseURL = "https://example.com/"
+baseURL = "https://chencxxx.github.io/blog/"
 title = "Hugo Theme Tailwind Example Site"
 author = "陳芝瑄"
 copyright = "陳芝瑄"
 pagination.pagerSize = 10
 languageCode = "en-us"
 theme = "tailwind"
-
 [markup]
   _merge = "deep"
 
